@@ -88,9 +88,7 @@ client.once('ready', () => {
 	console.log("[Triumph & Tragedy] is ready. Hello!");
 });
 
-client.login('Njg4OTYyMTQ1MTU2NTk1NzQz.Xm77_w.18WRhDd_IH_DlKW7UXKSXZk3OWY'); 
-//Ampersand: Njg4OTYyMTQ1MTU2NTk1NzQz.Xm77_w.18WRhDd_IH_DlKW7UXKSXZk3OWY
-//RPEngine: NDAwNDQ4MDIzNDQ2MTU5MzYx.XtwXfg.cAQd9_Zw7I_3L4E023oHKFSJA60
+client.login('<INSERT_TOKEN_HERE>');
 
 client.on('ready', () => {
 	client.user.setPresence({ activity: { name: "Triumph & Tragedy"}, status: 'online'}).then(console.log).catch(console.error);
