@@ -1,0 +1,51 @@
+Production Facilities:
+
+Guilds (Starting Building)
+Workshops
+Watermills
+Manufactories
+Mills
+Factories
+Arsenals
+Assembly Plants
+Industrial Complexes
+Civilian Industries
+Wartime Industries (grants CP of all types)
+Production Facilities
+Modern Financial Centres
+AI Hubs
+
+Food Production:
+
+Farms
+Centralised Farms
+Modern Farms
+Industrial Farms
+Vertical Farms
+
+Resource Production:
+
+Coal Mines
+Gold Mines
+Iron Mines
+Lead Mines
+Quarries
+
+Lumberjacks
+Steelworks
+Refineries
+
+Military Buildings:
+
+Auto Plants
+Artillery Factories
+Barracks
+Dockyards
+
+Research Buildings:
+
+Schools
+Libraries
+Universities
+Research Labs
+Research Complexes
